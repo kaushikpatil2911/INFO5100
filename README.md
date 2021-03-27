@@ -1,6 +1,5 @@
 # INFO5100
-Build an application to link CVS retail stores, Supplier and Delivery in a chain.
-
-Sending order requests online for time saving and environmental friendly.
-
-Set panel for every user like customers, supplier and delivery sending organization for enficently working.
+●	Built JAVA application using Java Swing components to link CVS retail stores, Supplier and Delivery and merged multiple panels for networks, enterprises and organizations for efficient working for retailer and customer side
+●	Monitored complete workflow from adding products from supplier to CVS, CVS to customer and return functionality for customers with live percentage tracking of order from initial 0% to final 100% delivery update 
+●	Computed profits chart based on sales and real time notification of delivery through Gmail to customers email ID
+![image](https://user-images.githubusercontent.com/64463136/112726608-b4b72d00-8ef4-11eb-8e0e-d92df9aedf89.png)
