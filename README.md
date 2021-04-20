@@ -5,6 +5,3 @@
 ●	Monitored complete workflow from adding products from supplier to CVS, CVS to customer and return functionality for customers with live percentage tracking of order from initial 0% to final 100% delivery update 
 
 ●	Computed profits chart based on sales and real time notification of delivery through Gmail to customers email ID
-
-
-[embed]https://github.com/kaushikpatil2911/INFO5100/blob/master/Ctrl%20Alt%20Decode%20Finel_Presentation.pdf[/embed]
