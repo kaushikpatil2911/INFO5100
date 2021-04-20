@@ -6,4 +6,4 @@
 
 ●	Computed profits chart based on sales and real time notification of delivery through Gmail to customers email ID
 
-./Ctrl Alt Decode Finel_Presentation.pdf
+[embed]https://github.com/kaushikpatil2911/INFO5100/blob/master/Ctrl%20Alt%20Decode%20Finel_Presentation.pdf[/embed]
