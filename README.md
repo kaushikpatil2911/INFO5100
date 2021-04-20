@@ -5,3 +5,5 @@
 ●	Monitored complete workflow from adding products from supplier to CVS, CVS to customer and return functionality for customers with live percentage tracking of order from initial 0% to final 100% delivery update 
 
 ●	Computed profits chart based on sales and real time notification of delivery through Gmail to customers email ID
+
+./Ctrl Alt Decode Finel_Presentation.pdf
